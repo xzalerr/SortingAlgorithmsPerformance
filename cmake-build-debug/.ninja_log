@@ -1,0 +1,12 @@
+# ninja log v5
+6	717	1712347504234479235	CMakeFiles/Sortowania.dir/SortingAlgorithms.cpp.o	e98ca3d50e018fdb
+0	67	1712347755533608344	build.ninja	4c2c1821dd917d98
+2	465	1711207516446368598	CMakeFiles/Sortowania.dir/InsertionSort.cpp.o	6cef57a7e4a8fa98
+2	73	1711648731466585539	CMakeFiles/Sortowania.dir/BinaryInsertionSort.cpp.o	fa3759fe04a15f6c
+2	593	1712330093373908651	CMakeFiles/Sortowania.dir/main.cpp.o	605eab56b18edcb3
+6	824	1712347504341542932	CMakeFiles/Sortowania.dir/DataGenerator.cpp.o	57e9dfebae5ded7
+2	415	1711648731807813490	CMakeFiles/Sortowania.dir/SoritingAlgorithms.cpp.o	c013730463d4d91b
+2	326	1711202450916381159	CMakeFiles/Sortowania.dir/QuickSort.cpp.o	d9ab729cd7d93a8b
+7	735	1712347504252495798	CMakeFiles/Sortowania.dir/Menu.cpp.o	9d991699f1554ec9
+824	939	1712347504458927015	Sortowania	fad6ab3e0bfbd326
+7	742	1712347504260374051	CMakeFiles/Sortowania.dir/Simulation.cpp.o	b18e0d452aead0d
